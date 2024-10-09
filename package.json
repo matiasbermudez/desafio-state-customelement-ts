@@ -1,0 +1,12 @@
+{
+  "name": "19-LocalStorage",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "devDependencies": {
+    "parcel": "^2.12.0"
+  }, 
+  "scripts": {
+    "marce": "parcel serve ./src/index.html"
+  }
+}
